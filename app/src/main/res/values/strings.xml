@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">计步器</string>
+    <string name="resetBtn">重置</string>
+    <string name="stepLen">计算距离和消耗的热量：%s CM</string>
+    <string name="body_weight">通过体重计算消耗的热量：%s Kg</string>
+    <string name="sensitivity">感应数据的敏感程度：%s </string>
+    <string name="interval">每隔：%s 毫秒进行一次数据采样 </string>
+    <string name="tv_welcome">每天一万步\n走出健康路</string>
+    <string name="tv_logo">计步器</string>
+    <string name="calorie">大卡</string>
+    <string name="exercise_time">活动时间</string>
+    <string name="kilometre">公里</string>
+    <string name="target_distance">目标:10000步</string>
+    <string name="my_target_distance">目标: %1$s步</string>
+    <string name="_100_ms">100 ms</string>
+    <string name="_200_ms">200 ms</string>
+    <string name="_300_ms">300 ms</string>
+    <string name="_400_ms">400 ms</string>
+    <string name="_500_ms">500 ms</string>
+    <string name="_600_ms">600 ms</string>
+    <string name="_700_ms">700 ms</string>
+    <string name="_800_ms">800 ms</string>
+    <string name="setting_body_weiht">设置体重</string>
+    <string name="please_input_exact_params">请输入正确的参数!</string>
+    <string name="setting_step_length">设置步长</string>
+    <string name="_1_97">特别高 1.97</string>
+    <string name="_2_96">非常高 2.96</string>
+    <string name="_4_44">很高 4.44</string>
+    <string name="_6_66">高 6.66</string>
+    <string name="_10_0">中等(推荐) 10.0</string>
+    <string name="_15_0">低 15.0</string>
+    <string name="_22_50">很低 22.50</string>
+    <string name="_33_75">非常低 33.75</string>
+    <string name="_50_62">特别低 50.62</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/select_item"
+        android:orientation="vertical">
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio1"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_1_97" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio2"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_2_96" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio3"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_4_44" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio4"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_6_66" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio5"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_10_0" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio6"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_15_0" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio7"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_22_50" />
+
+        <View style="@style/DividingLine" />
+        <RadioButton
+            android:id="@+id/radio8"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_33_75" />
+
+        <View style="@style/DividingLine" />
+
+        <RadioButton
+            android:id="@+id/radio9"
+            style="@style/radio_button"
+            android:paddingLeft="@dimen/item_margin"
+            android:paddingRight="@dimen/item_margin"
+            android:text="@string/_50_62" />
+
+        <View style="@style/DividingLine" />
+
+    </RadioGroup>
+
+</LinearLayout>

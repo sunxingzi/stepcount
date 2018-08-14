@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFFFF</color>
+    <color name="colorAccent">#FF0099CC</color>
+
+    <color name="fontBlue">#FF0099CC</color>
+    <color name="blueBack">#FF0099CC</color>
+    <color name="fontOrange">#FFFB8C21</color>
+    <color name="fontWhite">#FFFFFFFF</color>
+    <color name="fontGray">#FF949494</color>
+    <color name="fontBlack">#FF000000</color>
+    <color name="lightGray">#FFC4C4C4</color>
+    <color name="fontPink">#FFFF69B4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pressed">#F0F0F0F0</color>
+    <color name="dividing_line">#c7c7c7</color>
+    <color name = "transparent">#00000000</color>
+
+</resources>
