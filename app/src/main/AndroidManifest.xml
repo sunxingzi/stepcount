@@ -52,11 +52,12 @@
             android:hardwareAccelerated="true"
             android:screenOrientation="portrait"
             android:theme="@style/MainAppTheme" />
-        <activity android:name=".SampleTimeActivity"
+        <activity
+            android:name=".SampleTimeActivity"
             android:configChanges="keyboardHidden|orientation"
             android:hardwareAccelerated="true"
             android:screenOrientation="portrait"
-            android:theme="@style/MainAppTheme"/>
+            android:theme="@style/MainAppTheme" />
     </application>
 
 </manifest>

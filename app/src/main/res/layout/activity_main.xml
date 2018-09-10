@@ -155,21 +155,24 @@
             </LinearLayout>
 
 
-            <com.github.mikephil.charting.charts.BarChart
+           <!-- <com.github.mikephil.charting.charts.BarChart
                 android:id="@+id/chart1"
                 android:layout_width="match_parent"
                 android:layout_height="240dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
-                android:layout_marginTop="10dp" />
+                android:layout_marginTop="10dp" />-->
 
-           <!-- <com.github.mikephil.charting.charts.LineChart
-                android:id="@+id/lineChart"
+            <lecho.lib.hellocharts.view.LineChartView
+                android:id="@+id/step_chart"
                 android:layout_width="match_parent"
-                android:layout_height="240dp"
+                android:layout_height="300dp"
+                android:gravity="center"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
-                android:layout_marginTop="10dp"  />-->
+                android:layout_marginTop="20dp"/>
+
+
 
 
         </LinearLayout>
